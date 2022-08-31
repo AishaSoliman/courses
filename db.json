@@ -3,7 +3,7 @@
     
     {
       "id": 1,
-      "image": "assets/python/1.png",
+      "image": "https://i.ibb.co/yfGb0mS/python1.png",
       "title": " Learn Python: The Complete Python Programming Course",
       "auther": "Avinash Jain, The Codex",
       "starRate": 1.4,
@@ -13,7 +13,7 @@
     },
     {
       "id": 2,
-      "image": "assets/python/2.png",
+      "image": "https://i.ibb.co/61Rnhjs/python2.png",
       "title": " Learn Python: The Complete Python Programming Course",
       "auther": "Avinash Jain, The Codex",
       "starRate": 4.4,
@@ -23,7 +23,7 @@
     },
     {
       "id": 3,
-      "image": "assets/python/3.png",
+      "image": "https://i.ibb.co/Lp55Wg5/python3.png",
       "title": " Learn Python: The Complete Python Programming Course",
       "auther": "Avinash Jain, The Codex",
       "starRate": 4.4,
@@ -33,7 +33,7 @@
     },
     {
       "id": 4,
-      "image": "assets/excel/1.png",
+      "image": "https://i.ibb.co/GFTvLtc/excel1.png",
       "title": " Learn Excel1: The Complete Excel Programming Course",
       "auther": "Avinash Jain, The Codex",
       "starRate": 4.4,
@@ -43,7 +43,7 @@
     },
     {
       "id": 5,
-      "image": "assets/excel/2.png",
+      "image": "https://i.ibb.co/fkVGPQJ/excel2.png",
       "title": " Learn Excel2: The Complete Excel Programming Course",
       "auther": "Avinash Jain, The Codex",
       "starRate": 4.4,
@@ -53,7 +53,7 @@
     },
     {
       "id": 6,
-      "image": "assets/python/4.png",
+      "image": "https://i.ibb.co/hZ6twF2/python4.png",
       "title": " Learn Python: The Complete Python Programming Course",
       "auther": "Avinash Jain, The Codex",
       "starRate": 2.4,
@@ -63,7 +63,7 @@
     },
     {
       "id": 7,
-      "image": "assets/excel/3.png",
+      "image": "https://i.ibb.co/M8jKwkF/excel3.png",
       "title": " Learn Excel4: The Complete Excel Programming Course",
       "auther": "Avinash Jain, The Codex",
       "starRate": 4.4,
@@ -73,7 +73,7 @@
     },
     {
       "id": 8,
-      "image": "assets/excel/4.png",
+      "image": "https://i.ibb.co/vQHp2ny/excel4.png",
       "title": " Learn Excel2: The Complete Excel Programming Course",
       "auther": "Avinash Jain, The Codex",
       "starRate": 4.4,
@@ -83,7 +83,7 @@
     },
     {
       "id": 9,
-      "image": "assets/web/1.png",
+      "image": "https://i.ibb.co/DtPBLDb/web1.png",
       "title": " Learn Web Development: The Complete Web Development Programming Course",
       "auther": "Avinash Jain, The Codex",
       "starRate": 4.4,
@@ -93,7 +93,7 @@
     },
     {
       "id": 10,
-      "image": "assets/web/2.png",
+      "image": "https://i.ibb.co/cgnJJ3Y/web2.png",
       "title": " Learn Web Development: The Complete Web Development Programming Course",
       "auther": "Avinash Jain, The Codex",
       "starRate": 4.4,
@@ -103,7 +103,7 @@
     },
     {
       "id": 11,
-      "image": "assets/web/3.png",
+      "image": "https://i.ibb.co/bK4gzM8/web3.png",
       "title": " Learn Web Development: The Complete Web Development Programming Course",
       "auther": "Avinash Jain, The Codex",
       "starRate": 4.4,
@@ -113,7 +113,7 @@
     },
     {
       "id": 12,
-      "image": "assets/web/4.png",
+      "image": "https://i.ibb.co/93dSBF4/web4.png",
       "title": " Learn Web Development: The Complete Web Development Programming Course",
       "auther": "Avinash Jain, The Codex",
       "starRate": 4.4,
