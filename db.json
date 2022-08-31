@@ -1,4 +1,6 @@
-[
+{
+  "courses": [
+    
     {
       "id": 1,
       "image": "assets/python/1.png",
@@ -119,4 +121,20 @@
       "price": 679.99,
       "category": "web development"
     }
-  ]
+  ],
+  "tabs": {
+    "python": {
+      "opportunities": "Expand your career opportunities with Python",
+      "desc": "Take one of Udemy’s range of Python courses and learn how to code using this incredibly useful language. Its simple syntax and readability makes Python perfect for Flask, Django, data science, and machine learning. You’ll learn how to build everything from games to sites to apps. Choose from a range of courses that will appeal to both beginners and advanced developers alike.."
+    },
+    "excel": {
+      "opportunities": "Expand your career opportunities with Excel",
+      "desc": "Take one of Udemy’s range of Excel courses and learn how to code using this incredibly useful language. Its simple syntax and readability makes Python perfect for Flask, Django, data science, and machine learning. You’ll learn how to build everything from games to sites to apps. Choose from a range of courses that will appeal to both beginners and advanced developers alike.."
+    },
+    "web development": {
+      "opportunities": "Expand your career opportunities with web development",
+      "desc": "Take one of Udemy’s range of web development courses and learn how to code using this incredibly useful language. Its simple syntax and readability makes Python perfect for Flask, Django, data science, and machine learning. You’ll learn how to build everything from games to sites to apps. Choose from a range of courses that will appeal to both beginners and advanced developers alike.."
+    }
+  },
+  "categories": ["python", "excel", "web development"]
+}
